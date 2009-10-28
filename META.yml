@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Date-Maya
-version:            2009102701
+version:            2009102801
 abstract:           Translate between Julian days and Maya days.
 author:
     - Abigail <date-maya@abigail.be>
